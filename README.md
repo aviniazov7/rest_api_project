@@ -73,5 +73,3 @@ rest_api_project/
 * 🔌 Requests
 * 🔐 python-dotenv
 * 🚀 Uvicorn
-
-רוצה שאשלח לך את זה גם בקובץ `.md` מוכן להדבקה?
